@@ -1,0 +1,5 @@
+codigo 1
+codigo 2
+codigo 4
+codigo final
+rpueba fallida OK
